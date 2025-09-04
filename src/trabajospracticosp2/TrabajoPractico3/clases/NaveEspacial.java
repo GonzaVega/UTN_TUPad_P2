@@ -47,7 +47,7 @@ public class NaveEspacial {
       System.out.println("Nave ok\nTripulacion ok \nComienza el viaje");
       this.combustible -= distancia;
     } else {
-      System.out.println("Combustible insuficiente para la distancia ingresada");
+      System.out.println("Combustible insuficiente para la distancia ingresada.");
     }
   }
 
